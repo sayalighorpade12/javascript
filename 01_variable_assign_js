@@ -1,0 +1,30 @@
+var myFullName;
+myFullName = "Sayali Ghorpade";
+console.log(myFullName);
+myFullName = "Sayali Jaywant Ghorpade";
+console.log(myFullName);
+
+var myLove;
+myLove = "I love only JS";
+console.log(myLove);
+
+var firstName = "Sayali";
+console.log(firstName);
+
+var lastName = "Ghorpade";
+console.log(lastName);
+
+var age = "23";
+console.log(age);
+
+var address = "House no.32,anand nagar, Pune";
+console.log(address);
+
+var pinCode = "411052";
+console.log(pincode);
+
+var gender = "Female";
+console.log(gender);
+
+var isMarried = "No";
+console.log(isMarried);
