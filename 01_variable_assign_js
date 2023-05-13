@@ -21,7 +21,7 @@ var address = "House no.32,anand nagar, Pune";
 console.log(address);
 
 var pinCode = "411052";
-console.log(pincode);
+console.log(pinCode);
 
 var gender = "Female";
 console.log(gender);
